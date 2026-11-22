@@ -8,7 +8,7 @@ Use this repository to compare model benchmarks, find downloadable model variant
 
 ## Quick start
 
-1. Clone the private repository or download the [current catalog ZIP](AI_Master_Ecosystem_Private_Upgraded_2026-11-22.zip).
+1. Clone the private repository or download the [current catalog ZIP](https://github.com/mmahdi-sz/ai-model-catalog/releases/download/v2026.11.22/AI_Master_Ecosystem_Private_Upgraded_2026-11-22.zip).
 2. Extract the archive and open `02_Master_AI_Models_Unified.csv` in a spreadsheet or CSV reader using UTF-8. In a terminal, you can run:
 
    ```sh
